@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **all types of projects**
 
-- 👨‍💻 All of my projects are available at [akashjana2123.github.io/portfolio1/](akashjana2123.github.io/portfolio1/)
+- 👨‍💻 All of my projects are available at [[akashjana2123.github.io/portfolio1/](akashjana2123.github.io/portfolio1/)](https://akashjana2123.github.io/Portfolio_/)
 
 - 💬 Ask me about **HTML, CSS, JSS, vuejs, reactjs, UI/UX, python**
 
