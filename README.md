@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **akashjana7437@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12jv8Ws6Ur1ix-Gj0bDm_Lk9LObqTVh9N/view?usp=sharing](https://drive.google.com/file/d/12jv8Ws6Ur1ix-Gj0bDm_Lk9LObqTVh9N/view?usp=sharing)
-
 - ⚡ Fun fact **I Love playing Guitar, gaming and listening to music**
 
 <h3 align="left">Connect with me:</h3>
