@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashjana2123" alt="akashjana2123" /></a> </p>
 
-- 🔭 I’m currently working on [Society Management Project]([https://github.com/akashjana2123/TicketShow](https://github.com/akashjana2123/SocietyManagementProject))
+- 🔭 I’m currently working on [Society_Management_Project]([https://github.com/akashjana2123/TicketShow](https://github.com/akashjana2123/SocietyManagementProject))
 
 - 🌱 I’m currently learning **MERN Stack, Flask, Jijna2, Bootstrap, SQLite**
 
