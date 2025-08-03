@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **new edge technologies and testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akashjana2123/Portfolio_](https://github.com/akashjana2123/Portfolio_)
+- 👨‍💻 Hackerrank badges and certificates: [https://www.hackerrank.com/profile/23f2000990_](https://www.hackerrank.com/profile/23f2000990_)
 
 - 💬 Ask me about **all the above said**
 
